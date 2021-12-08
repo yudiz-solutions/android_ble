@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ble Connection</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="name_not_found">Name not found</string>
+    <string name="aa">Name not Found</string>
+    <string name="information">Information</string>
+    <string name="unlock">Unlock</string>
+    <string name="lock">Lock</string>
+</resources>
